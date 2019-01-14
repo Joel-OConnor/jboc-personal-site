@@ -1,0 +1,27 @@
+.header-bar {
+  display: flex;
+  padding: 0 1em;
+  background-color: #f7f7f7;
+}
+
+.hex-j-logo {
+  height: 6em;
+  position: absolute;
+  top: 1em;
+}
+
+.nav-bar-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 1em 0;
+}
+
+.nav-bar {
+
+}
+
+.nav-bar-links {
+  margin: 1em;
+  color: 'green';
+}
